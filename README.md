@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/{452917448}.svg)](https://zenodo.org/badge/latestdoi/{452917448})
+
 # Eye fundus image enhancement for retinal vessel segmentation
 Code for the Optimized top-hat and homomorphic filtering for vessel enhancement for segmentation coded on MATLAB.
 
